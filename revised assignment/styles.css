@@ -1,0 +1,97 @@
+/* basic elements */
+html {
+	margin: 10;
+	padding: 5;
+	}
+    body {
+        background-color: darkslategrey;
+        color: azure;
+        font-size: 2.1em;
+
+    }
+    h1 {
+        text-align: center;
+        color: coral;
+        font-family: "Times New Roman", Times, serif;
+    }
+    h2 {
+        text-align: center;
+        color: black;
+        font-style: italic;
+        
+    }
+    #intro {
+        font-size: 1.3em;
+    }
+    .colorful {
+        color: rgb(129, 25, 25);
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+      }
+    li {
+        float: left;
+        width: relative;
+
+      }
+      
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 65px;
+        text-decoration: none;
+        background-color: black;
+      }
+    li a:hover {
+        background-color: royalblue;
+      }
+    img {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+      }
+      p {
+        margin: 10;
+        padding: 10;
+      }
+      #Finland {
+        background-color: black;
+        color: blanchedalmond;
+
+      }
+      #Iceland {
+        background-color: black;
+        color: blanchedalmond;
+
+      }
+      #Russia {
+        background-color: black;
+        color: blanchedalmond;
+
+      }
+    #Alaska {
+        background-color: black;
+        color: blanchedalmond;
+
+      }
+    #Canada {
+      background-color: black;
+      color: blanchedalmond;
+
+    }
+    #Norway {
+      background-color: black;
+      color: blanchedalmond;
+
+    }
+    #Greenland {
+    background-color: black;
+    color: blanchedalmond;
+
+  }
